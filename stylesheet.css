@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Raleway";
+}
+
+.logo {
+    float: left;
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: bolder;
+    margin-top: -10px;
+}
+
+header a {
+    padding-right: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+.menu {
+    margin: auto;
+    width: 35%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.menu a:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+.greet {
+    width: 100%;
+    background-color: white;
+    height: 300px;
+}
+
+.greeting {
+    margin-top: 100px;
+    margin-left: 30px;
+}
